@@ -1,0 +1,70 @@
+Note: ">" references a directory, not a part/assembly
+
+Camera Mount
+	Camera Mount Assembly
+	Continuous Rotation Servo
+	Camera
+	Camera Mounting Bracket
+	Servo Mounting Bracket
+	
+Deployment Mechanism
+	Deployment Mechanism Assembly
+	Stepper Bulkhead
+	Deployment Bay Standoff
+	Deployment Bay Electronics Platform
+	Aft Bulkhead
+	Stepper Rear Cover
+	
+Electronics Platform
+	High Torque Servo Mounting Bracket
+	High Torque Servo
+	Servo Horn Connector Bracket
+	Platform
+	SDR
+	> Camera Mount
+	> Raspberry Pi
+	
+Gimbal Structure
+	Gimbal Structure Assembly
+	Gimbal Rear Bulkhead
+	Skid Plate
+	Forward Cap
+	Spacer 0.25 in
+	Spacer 0.5 in
+	Outer Gimbal Support Assembly
+		Gimbal End Plate
+		Gimbal Side Arm
+
+COTS Components
+	Raspberry Pi 4 B
+		Assembly Raspberry Pi 4 B
+		1.0 Plate Raspberry Pi
+		2.0 Pin Header
+		3.0 Pin Header
+		4.0 Metal Plate
+		5.0 CPU Broadcom
+		6.0 9FD77 D9WHV
+		7.0 Mx
+		8.0 Gigabit Ethernet Transceiver
+		9.0 VLI PCIe USB 3.0 Controller
+		10.0 Female USB Connector
+		11.0 Female Micro HDMI Connector
+		12.0 Gigabit Ethernet Port Raspberry
+		14.0 2x USB 3.0 Port
+		15.0 2x USB 2.0 Port
+		Card Slot
+			Card Slot Assembly
+			Card Slot Part 2 Metal Pin
+			SD Card Slot v1
+			Part 3 v1
+		Display Connector
+			Display Connector Assembly
+			2.2 Part 2 with Combine
+			1.1 Part 1 Metal Pin
+			3.3 Plastic
+		Microphone Plug
+			Microphone Plug Assembly
+			Part 4 Microphone Plug
+			Microphone Plug Part 1
+			Part 2 Microphon Plug Metal
+			Part 3 Microphone Plug
